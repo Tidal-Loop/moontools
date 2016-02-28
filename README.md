@@ -1,2 +1,2 @@
 # moontools
-Tools for building Moon apps
+CLI Tools for building Moon apps
